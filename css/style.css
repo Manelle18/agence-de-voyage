@@ -1,0 +1,19 @@
+.nv {
+    background-color:darksalmon;
+    width: 100%;
+    font-size: 1.8rem;
+    margin-top: -10px;
+}
+#home {
+    background-repeat: no-repeat;
+    margin-top: -60px;
+    height:900px;
+    background-image: url(/image/carte-monde-voyage.jpg);
+}
+
+
+.card-img-top {
+    width: 391px;
+    height: 312px;
+    margin: auto
+}
