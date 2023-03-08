@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+}
+
+.btn:hover {
+    background-repeat: no-repeat;
+    background: linear-gradient(90deg, rgb(139, 138, 135) -30%, rgb(26, 24, 24) 110%);
+    color: rgb(255, 255, 255);
+    border: none;
+    transition-duration: 1s;
+}
+
+.destinations {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 15px 0 15px 0;
+}
+
+
+
+
+
+.card-img-top {
+    height: 15rem;
+
+
+}
