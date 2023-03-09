@@ -1,9 +1,9 @@
 <?php
 
 try {
-    $pdo = new PDO('mysql:host=localhost;dbname=agencedevoyage', 'root', '', [
+    $pdo = new PDO('mysql:host=localhost;dbname=agence_de_voyage', 'root', '', [
         PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
     ]);
 } catch (Exception $e) {
-    die('erreur db');
+    echo "erreur db";
 }

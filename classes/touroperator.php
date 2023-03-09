@@ -3,11 +3,12 @@ include('connexion.php');
 class tour_operator
 {
 
-    protected $id;
-    protected string $name;
-    protected string $link;
-    protected $grade;
-    protected int $is_premium;
+    private $id;
+    private $name;
+    private $link;
+    private $gradeCount;
+    private $gradeTotal;
+    private $isPremium; 
 
     /* CONSTRUCT */
 
@@ -60,25 +61,36 @@ class tour_operator
         $this->link = $link;
     }
 
-    public function getGrade()
+    public function getGradeCount()
     {
-        return $this->grade;
+        return $this->gradeCount;
     }
 
-    public function setGrade($grade)
+    public function setGradeCount($gradeCount)
     {
-        $this->grade = $grade;
+        $this->gradeCount = $gradeCount;
+    }
+    public function getGradeTotal()
+    {
+        return $this->gradeTotal;
     }
 
-    public function isIsPremium()
+    public function setGradeTotal($gradeTotal)
     {
-        return $this->is_premium;
+        $this->gradeCount = $gradeTotal;
     }
 
-    public function setIs_premium($is_premium)
+
+    public function getIsPremium()
     {
-        $this->is_premium = $is_premium;
+        return $this->isPremium;
+    }
+
+    public function setIspremium($isPremium)
+    {
+        $this->isPremium = $isPremium;
     }
 
 
 }
+?>
