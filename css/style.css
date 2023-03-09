@@ -9,11 +9,12 @@
     margin-top: -60px;
     height:900px;
     background-image: url(/image/carte-monde-voyage.jpg);
+    background-size: cover;
 }
 
 
 .card-img-top {
-    width: 391px;
+    width: 413px;
     height: 312px;
-    margin: auto
+    margin: auto;
 }
