@@ -8,17 +8,18 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
-    <link href="/style.css" rel="stylesheet">
+    <link href="./style.css" rel="stylesheet">
 </head>
 
 <body>
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
         crossorigin="anonymous"></script>
     <div class="row destinations">
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/N.gif" class="card-img-top" alt="...">
+                <img src="./img/N.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Namibie</h5>
                     <p class="card-text"> À partir de 1500 €</p>
@@ -28,7 +29,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/M.gif" class="card-img-top" alt="...">
+                <img src="./img/M.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Maldives</h5>
                     <p class="card-text">À partir de 1600 €</p>
@@ -38,7 +39,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/D.gif" class="card-img-top" alt="...">
+                <img src="./img/D.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Dubai</h5>
                     <p class="card-text">À partir de 1800 €</p>
@@ -48,7 +49,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/J.gif" class="card-img-top" alt="...">
+                <img src="./img/J.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Japon</h5>
                     <p class="card-text">À partir de 2000 €</p>
@@ -58,7 +59,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/G.gif" class="card-img-top" alt="...">
+                <img src="./img/G.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Gréce</h5>
                     <p class="card-text">À partir de 1500 €</p>
@@ -68,7 +69,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/T.gif" class="card-img-top" alt="...">
+                <img src="./img/T.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Turquie</h5>
                     <p class="card-text">À partir de 800 €</p>
@@ -78,7 +79,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/B.gif" class="card-img-top" alt="...">
+                <img src="./img/B.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Bali</h5>
                     <p class="card-text">À partir de 2500 €</p>
@@ -88,7 +89,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/Î.jpg" class="card-img-top" alt="...">
+                <img src="./img/Î.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Îles Canaries</h5>
                     <p class="card-text">À partir de 2000 €</p>
@@ -98,7 +99,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/TAÎ.gif" class="card-img-top" alt="...">
+                <img src="./img/TAÎ.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Thaïlande</h5>
                     <p class="card-text">À partir de 1800 €</p>
@@ -108,7 +109,7 @@
         </div>
         <div class="col-12 col-md-6 col-lg-4 destinations">
             <div class="card" style="width: 18rem;">
-                <img src="/img/Z.gif" class="card-img-top" alt="...">
+                <img src="./img/Z.gif" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Zanzibar</h5>
                     <p class="card-text">À partir de 2200 €</p>
